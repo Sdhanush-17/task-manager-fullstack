@@ -21,12 +21,12 @@ A full-stack task management application that allows users to register, login, a
 3. Installation
 
 A) Backend
-cd backend  
+ 
 npm install  
 npm start  
 
 B) Frontend
-cd frontend  
+ 
 npm install  
 npm run dev  
 
