@@ -10,6 +10,7 @@ A full-stack task management application that allows users to register, login, a
 - JWT Authentication
 
 2. Features
+
 ✔ User Authentication  
 ✔ Protected Routes  
 ✔ Create Tasks  
